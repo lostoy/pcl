@@ -280,7 +280,7 @@ public:
 boost::shared_ptr<pcl::visualization::PCLVisualizer> cld;
 boost::shared_ptr<pcl::visualization::ImageViewer> img;
 
-/* ---[ */
+
 int
 main (int argc, char** argv)
 {
@@ -360,4 +360,3 @@ main (int argc, char** argv)
 
 	return (0);
 }
-/* ]--- */
